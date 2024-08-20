@@ -43,7 +43,7 @@ Cukup buka file `index.html` di browser pilihan Anda untuk melihat dan berintera
 
 ## Tangkapan Layar
 
-![Tangkapan Layar Kalkulator](link-ke-gambar-tangkapan-layar)
+![Tangkapan Layar Kalkulator](./image.png)
 
 ## Cara Menggunakan
 
